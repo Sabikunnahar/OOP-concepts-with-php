@@ -1,6 +1,6 @@
 <?php
     /**
-     * : Abstract class contains ateast one abstract function
+     * : Abstract class contains atleast one abstract function and can have other function also.
      * : Abstract function must be call/declare but can'ty be deployed. That means this function will be only called but cannot have body in abstract class.
      * : Abstract classes object cannot be create.
      * : When the Abstract class is inherited, the abstract function have to be called and have to be use.

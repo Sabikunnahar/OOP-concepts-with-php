@@ -1,8 +1,9 @@
 <?php
 /*
-    :Suppose I have to inherit 2 classes. I cannot inherit directly from 2 classes. So, that's why we use interface.
+    : Interface is same as abstract class.
+    : Interface class can contain only abstract methods, it cannot contains normal function.
+    : Suppose I have to inherit 2 classes. I cannot inherit directly from 2 classes. So, that's why we use interface.
     : Support multiple inheritance
-    : Interface class can contain only abstract methods.
     : In interface we cannot define variables.
     : We can define variables in abstract class.
     : No constructor in interface.
